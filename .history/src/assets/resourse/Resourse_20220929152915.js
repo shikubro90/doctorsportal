@@ -3,9 +3,6 @@ import marker from '../icons/marker.svg'
 import phone from '../icons/phone.svg'
 
 import cavity from '../images/cavity.png'
-import fluorid from '../images/fluoride.png'
-import whitening from '../images/whitening.png'
-
 
 export const miniCard =[
     {
@@ -34,23 +31,9 @@ export const miniCard =[
 export const serviceMiniCard = [
     {
         id : 0,
-        icon : cavity,
-        title : "Fluoride Treatment",
-        disc : "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
-        style : ''
+        icon : clock,
+        title : "Opening Hours",
+        disc : "Lorem Ipsum is simply dummy text of the pri",
+        style : 'bg-gradient-to-r from-secondary to-primary text-white'
     },
-    {
-        id : 1,
-        icon : fluorid,
-        title : "Cavity Filling",
-        disc : "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
-        style : ''
-    },
-    {
-        id : 2,
-        icon : whitening,
-        title : "Teeth Whitening",
-        disc : "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
-        style : ''
-    }
 ]

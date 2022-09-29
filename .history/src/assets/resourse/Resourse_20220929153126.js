@@ -36,21 +36,21 @@ export const serviceMiniCard = [
         id : 0,
         icon : cavity,
         title : "Fluoride Treatment",
-        disc : "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
-        style : ''
+        disc : "Lorem Ipsum is simply dummy text of the pri",
+        style : 'bg-gradient-to-r from-secondary to-primary text-white'
     },
     {
         id : 1,
         icon : fluorid,
         title : "Cavity Filling",
-        disc : "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
-        style : ''
+        disc : "Lorem Ipsum is simply dummy text of the pri",
+        style : 'bg-gradient-to-r from-secondary to-primary text-white'
     },
     {
         id : 2,
         icon : whitening,
-        title : "Teeth Whitening",
-        disc : "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
-        style : ''
-    }
+        title : "Opening Hours",
+        disc : "Lorem Ipsum is simply dummy text of the pri",
+        style : 'bg-gradient-to-r from-secondary to-primary text-white'
+    },
 ]

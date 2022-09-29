@@ -51,6 +51,6 @@ export const serviceMiniCard = [
         icon : whitening,
         title : "Teeth Whitening",
         disc : "Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the",
-        style : ''
-    }
+        style : 'bg-gradient-to-r from-secondary to-primary text-white'
+    },
 ]
