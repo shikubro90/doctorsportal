@@ -1,0 +1,79 @@
+[
+    {
+        "_id" : 0,
+        "name" : "Teeth Orthodontics",
+        "slots" : [
+            "8:00 AM - 8:30 AM",
+            "8:00 AM - 9:00 AM",
+            "9:00 AM - 9:30 AM",
+            "9:30 AM - 10:00 AM",
+            "10:00 AM - 10:30 AM"
+        ]
+    },
+    {
+        "_id" : 1,
+        "name" : "Cosmetic Dentistry",
+        "slots" : [
+            "8:00 AM - 8:30 AM",
+            "8:00 AM - 9:00 AM",
+            "9:00 AM - 9:30 AM",
+            "9:30 AM - 10:00 AM",
+            "10:00 AM - 10:30 AM"
+        ]
+    },
+    {
+        "_id" : 2,
+        "name" : "Teeth Orthodontics",
+        "slots" : [
+            "8:00 AM - 8:30 AM",
+            "8:00 AM - 9:00 AM",
+            "9:00 AM - 9:30 AM",
+            "9:30 AM - 10:00 AM",
+            "10:00 AM - 10:30 AM"
+        ]
+    },
+    {
+        "_id" : 3,
+        "name" : "Oral surgary",
+        "slots" : [
+            "8:00 AM - 8:30 AM",
+            "8:00 AM - 9:00 AM",
+            "9:00 AM - 9:30 AM",
+            "9:30 AM - 10:00 AM",
+            "10:00 AM - 10:30 AM"
+        ]
+    },
+    {
+        "_id" : 4,
+        "name" : "Teeth Orthodontics",
+        "slots" : [
+            "8:00 AM - 8:30 AM",
+            "8:00 AM - 9:00 AM",
+            "9:00 AM - 9:30 AM",
+            "9:30 AM - 10:00 AM",
+            "10:00 AM - 10:30 AM"
+        ]
+    },
+    {
+        "_id" : 5,
+        "name" : "Teeth Orthodontics",
+        "slots" : [
+            "8:00 AM - 8:30 AM",
+            "8:00 AM - 9:00 AM",
+            "9:00 AM - 9:30 AM",
+            "9:30 AM - 10:00 AM",
+            "10:00 AM - 10:30 AM"
+        ]
+    },
+    {
+        "_id" : 6,
+        "name" : "Teeth Orthodontics",
+        "slots" : [
+            "8:00 AM - 8:30 AM",
+            "8:00 AM - 9:00 AM",
+            "9:00 AM - 9:30 AM",
+            "9:30 AM - 10:00 AM",
+            "10:00 AM - 10:30 AM"
+        ]
+    }
+]
