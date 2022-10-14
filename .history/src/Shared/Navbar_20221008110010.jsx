@@ -44,7 +44,7 @@ const Navbar = () => {
                 <Link to="/contact">Contact Us</Link>
               </li>
               <li>
-                <Link to="/login">Login</Link>
+                <Link to="/contact">Login</Link>
               </li>
             </ul>
           </div>
@@ -71,7 +71,7 @@ const Navbar = () => {
               <Link to="/contact">Contact Us</Link>
             </li>
             <li>
-              <Link to="/login">Login</Link>
+              <Link to="/contact">Login</Link>
             </li>
           </ul>
         </div>

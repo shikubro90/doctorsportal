@@ -6,7 +6,7 @@ const BookingModal = ({ date, treatment, setTreatment }) => {
 
   const handleSubmit = event =>{
     event.preventDefault()
-    const slots = event.target.slots.value;
+    const slots = event.target.value;
     console.log(slots);
     setTreatment(null)
     
@@ -38,7 +38,7 @@ const BookingModal = ({ date, treatment, setTreatment }) => {
                 className="input input-bordered w-full bg-[#E6E6E6]"
                 value={format(date, 'PP')}
               />
-              <select name='slots' className="select w-full bg-[#E6E6E6]">
+              <select className="select w-full bg-[#E6E6E6]">
                 <option disabled selected>
                   Time {`(${slots[0]})`}
                 </option>

@@ -1,16 +1,10 @@
 import { format } from 'date-fns'
+import React from 'react'
 
-const BookingModal = ({ date, treatment, setTreatment }) => {
-
+const BookingModal = ({ date, treatment }) => {
+  
   const { name, slots } = treatment
 
-  const handleSubmit = event =>{
-    event.preventDefault()
-    const slots = event.target.slots.value;
-    console.log(slots);
-    setTreatment(null)
-    
-  }
 
   return (
     <div>
@@ -30,7 +24,7 @@ const BookingModal = ({ date, treatment, setTreatment }) => {
             </h3>
 
             <form
-              onSubmit={handleSubmit}
+              action=""
               className="w-full grid grid-cols-1 justify-items-start gap-3"
             >
               <input
@@ -38,7 +32,7 @@ const BookingModal = ({ date, treatment, setTreatment }) => {
                 className="input input-bordered w-full bg-[#E6E6E6]"
                 value={format(date, 'PP')}
               />
-              <select name='slots' className="select w-full bg-[#E6E6E6]">
+              <select className="select w-full bg-[#E6E6E6]">
                 <option disabled selected>
                   Time {`(${slots[0]})`}
                 </option>
