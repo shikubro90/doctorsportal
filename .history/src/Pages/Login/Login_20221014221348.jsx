@@ -5,9 +5,7 @@ import auth from '../../firebase.init'
 const Login = () => {
   const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth)
 
-  if(user){
-    console.log(user)
-  }
+  if
 
   return (
     <div className="w-full h-screen flex items-center justify-center">

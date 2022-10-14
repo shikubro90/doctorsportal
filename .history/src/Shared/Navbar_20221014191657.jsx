@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Navbar = () => {
   return (
-    <div className="lg:px-20 fixed w-full z-50">
+    <div className="lg:px-20 fix">
       <div className="navbar bg-base-100">
         <div className="navbar-start">
          

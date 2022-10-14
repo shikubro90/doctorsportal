@@ -6,7 +6,7 @@ const Login = () => {
   const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth)
 
   if(user){
-    console.log(user)
+    clg
   }
 
   return (
